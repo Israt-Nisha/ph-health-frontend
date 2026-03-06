@@ -1,8 +1,7 @@
-export default function AdminDashboardPage() {
+const AdminDashboardPage = () => {
   return (
-    <div className="p-8">
-      <h1 className="text-2xl font-bold">Admin Dashboard</h1>
-      <p>Welcome to the admin dashboard.</p>
-    </div>
-  );
+    <div>AdminDashboardPage</div>
+  )
 }
+
+export default AdminDashboardPage

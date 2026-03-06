@@ -1,8 +1,10 @@
-export default function DoctorDashboardPage() {
+const DoctorsDashboard
+ = () => {
   return (
-    <div className="p-8">
-      <h1 className="text-2xl font-bold">Doctor Dashboard</h1>
-      <p>Overview of your doctor activities.</p>
+    <div>DoctorsDashboard
+        
     </div>
-  );
+  )
 }
+
+export default DoctorsDashboard
